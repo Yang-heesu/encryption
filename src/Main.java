@@ -14,7 +14,7 @@ public class Main{
 		 SwingUtilities.invokeLater(new Runnable() {
 	            public void run() {
 
-	        		frame.setTitle("´ÙÁß ¹®ÀÚ Ä¡È¯");
+	        		frame.setTitle("ì•”í˜¸í™” í”„ë¡œê·¸ëž¨");
 	        		frame.setPreferredSize(new Dimension(800,650));
 	        		frame.setResizable(false);
 	        		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
